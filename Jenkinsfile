@@ -1,4 +1,4 @@
 #!groovy
 node {
-  println "test-jenkins/master"
+  println "test-jenkins/abc"
 }
